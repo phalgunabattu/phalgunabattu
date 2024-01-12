@@ -1,7 +1,5 @@
-![logo](https://github.com/KarteekMenda93/KarteekMenda93/blob/main/PROF.png)
 
-
-<h1 align="center">Hi 👋, I'm Karteek Menda</h1>
+<h1 align="center">Hi 👋, I'm Phalguna Battu</h1>
 
 I am Robotics GRAD Student at ASU, Project Engineer in Dynamic Systems and Control Lab at ASU, Ex - Machine Learning Engineer, and a Machine Learning Blogger. Experienced data science professional with extensive knowledge of building data-intensive applications and overcoming complex architectural and scalability challenges. Proficient in predictive modelling, data processing, and data mining algorithms, as well as scripting languages, including Python and C++. A passion for Artificial Intelligence coupled with a comprehensive understanding of machine learning concepts and other related technologies. Through the design, development, testing, and deployment of highly adaptive diverse services, able to transform business and functional qualifications into substantial deliverables
 
