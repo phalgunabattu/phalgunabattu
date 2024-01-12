@@ -9,7 +9,7 @@ I am a diligent professional currently pursuing an M.S. in Information Technolog
 - 👯 I’m looking to collaborate on Robotics, Autonomous Systems, AI, ML, DL, NLP, User Interface Development
 - 💬 Ask me about Databases, Machine learning, Time Series Forecasting, Deep Learning, NLP tasks, Front End Development, and Hosting
 - 📫 How to reach me: 
-    [Medium](https://medium.com/@karteekmenda93) , [Linkedin](http://www.linkedin.com/in/karteek-menda) , [Twitter](https://twitter.com/KarteekMenda93) 
+    [Medium](https://medium.com/@battuphalguna) , [Linkedin](http://www.linkedin.com/in/karteek-menda) , [Twitter](https://twitter.com/KarteekMenda93) 
 - 📫 You can go through some of my slides on Transformers [BERT](https://karteekmenda93-google-bert-streamlit-app-rk5e3h.streamlit.app/), [Longformers](https://karteekmenda93-longformer-streamlit-app-ezfd9y.streamlit.app/)
 - 📝 you can also have a look at my [Portfolio](https://karteekmenda93.github.io/DigitalPortfolio/)
 - 😄 Pronouns: He/Him
