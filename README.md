@@ -30,31 +30,8 @@ You can find my Resume [Here](https://drive.google.com/file/d/16RrXL10DqgxQZLNth
 
 
 ### Blog posts
-[Tic-tac-toe with MyCobot — Part 2](https://medium.com/@karteekmenda93/tic-tac-toe-with-mycobot-part-2-aba39fcf7811)
 
-[Tic-tac-toe with MyCobot — Part 1](https://medium.com/@karteekmenda93/tic-tac-toe-with-mycobot-part-1-71e9ab2f1432)
-
-[Principal Component Analysis](https://medium.com/@karteekmenda93/principal-component-analysis-fcb45cc48f9a)
-
-[Control the heater and filter the data for better performance](https://medium.com/@karteekmenda93/control-the-heater-and-filter-the-data-for-better-performance-c276b43e1b4b)
-
-[How does Google Maps predict the ETA with high precision?](https://medium.com/@karteekmenda93/how-does-google-maps-predict-the-eta-with-high-precision-b9bac345fd4)
-
-[Part 1: Sentimental Analysis Using BERT](https://medium.com/@karteekmenda93/part-1-sentimental-analysis-using-bert-c030ca9b33b6)
-
-[OCR — Optical Character Recognition](https://medium.com/@karteekmenda93/ocr-optical-character-recognition-f4317300fa8f)
-
-[A Beginner’s Guide to NLP](https://medium.com/@karteekmenda93/a-beginners-guide-to-nlp-da13fae5e885)
-
-[Deployment of Machine Learning Application Made Easy](https://medium.com/@karteekmenda93/deployment-of-machine-learning-application-made-easy-f61ba593c318)
-
-[H2O-Automated ML](https://medium.com/@karteekmenda93/h2o-automated-ml-a88806206782)
-
-[Exploratory Data Analysis Tools](https://medium.com/@karteekmenda93/exploratory-data-analysis-tools-83ef538c879f)
-
-[Humming Bird- An Accelerator to Machine Learning Models](https://medium.com/@karteekmenda93/humming-bird-an-accelerator-to-machine-learning-models-dae1545e6941)
-
-[The confusion behind Confusion Matrix](https://medium.com/@karteekmenda93/the-confusion-behind-confusion-matrix-35bab6756137)
+[The confusion behind Confusion Matrix](https://medium.com/@battuphalguna/confusion-matrix-db529c4791e4)
 
 
 
@@ -65,9 +42,6 @@ You can find my Resume [Here](https://drive.google.com/file/d/16RrXL10DqgxQZLNth
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">Frameworks(Front End Development):</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-</p>
 
 
 <h3 align="left">Version Control</h3>
