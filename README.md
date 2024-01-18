@@ -4,9 +4,6 @@
 I am a diligent professional currently pursuing an M.S. in Information Technology at Arizona State University, fortified by a strong academic background. My skill set spans Java, C, C++, Python, and SQL, underpinned by adeptness in data handling including collection, cleansing, wrangling, and web scraping. As a Programmer Analyst at Cognizant, I've showcased proficiency in Selenium-based automation testing and contributed substantively to Mainframe Development at United Health Group. My mastery in Tableau, TensorFlow, Keras, AWS, MongoDB, and Firebase augments my technical acumen, positioning me favorably for data engineering and analysis roles. With a foundation rooted in academia and honed through hands-on experience, I am enthusiastic about channeling my technological prowess, programming finesse, and data-driven insights into propelling transformative solutions. I welcome the opportunity to connect and explore how my expertise aligns with your team's aspirations.
 
 
-- 🌱 I’m completely looking to fulfil my goal of establishing a start up venture of agriculture based robotic products to help the farmers in India
-- 💳 Interested in knowing more about integration of different disciplines in order to make Robotics Systems and Mechatronic Systems
-- 👯 I’m looking to collaborate on Robotics, Autonomous Systems, AI, ML, DL, NLP, User Interface Development
 - 💬 Ask me about Databases, Machine learning, Time Series Forecasting, Deep Learning, NLP tasks, Front End Development, and Hosting
 - 📫 How to reach me: 
     [Medium](https://medium.com/@battuphalguna) , [Linkedin](http://www.linkedin.com/in/phalgunabattu) 
@@ -50,11 +47,6 @@ You can find my Resume [Here](https://drive.google.com/file/d/16RrXL10DqgxQZLNth
 </p>
 
 
-<h3 align="left">Hosting/SaaS</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-</p>
-
-
 <h3 align="left">Databases</h3>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a>
 </p>
@@ -68,6 +60,6 @@ You can find my Resume [Here](https://drive.google.com/file/d/16RrXL10DqgxQZLNth
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KarteekMenda93&layout=compact)](https://github.com/KarteekMenda93/github-readme-stats)
+
 
 ## 👋 Thanks for visiting my Repo. 
